@@ -6,7 +6,7 @@ Here is a curated list of Split Computing & Early Exit papers and resources.
 
 🚧 This is an active repository, you can watch for following the latest advances.
 
-The ✨ indicates that the article is one of those developed by me.
+The ✨ indicates that this is an article that I co-authored.
 
 If you find it useful, please kindly star ⭐ this repository.
 
@@ -17,7 +17,7 @@ If you find it useful, please kindly star ⭐ this repository.
 
 ## ❤️ Community Support ##
 This repository is maintained by [Luigi Capogrosso](https://github.com/luigicapogrosso) (luigi.capogrosso@univr.it).
-I welcome feedback, suggestions, and contributions that can help improve this survey and repository so as to make them valuable resources to benefit the entire community.
+I welcome feedback, suggestions, and contributions that can help improve this repository so as to make them valuable resources to benefit the entire community.
 
 I will actively maintain this repository by incorporating new research as it emerges.
 If you have any suggestions regarding our taxonomy, find any missed papers, or update any preprint arXiv paper that has been accepted to some venue, feel free to send us an email or submit a pull request using the following markdown format.
@@ -129,6 +129,18 @@ Articles are sorted by year, from most recent to oldest.
 
 - Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency, <ins>Conference on Embedded Networked Sensor Systems (SenSys)</ins>, [[article](https://dl.acm.org/doi/abs/10.1145/3384419.3430898)].
 
+- Lightweight Compression Of Neural Network Feature Tensors For Collaborative Intelligence, <ins>International Conference on Multimedia and Expo (ICME)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9102797)].
+
+- CRIME: Input-Dependent Collaborative Inference for Recurrent Neural Networks, <ins>IEEE Transactions on Computers</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9184963)].
+
+- Back-And-Forth Prediction for Deep Tensor Compression, <ins>International Conference on Acoustics, Speech and Signal Processing (ICASSP)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9053011)].
+
+- Depth-Adaptive Transformer, <ins>International Conference on Learning Representations (ICLR)</ins>, [[article](https://openreview.net/forum?id=SJg7KhVKPH)].
+
+- Dual Dynamic Inference: Enabling More Efficient, Adaptive, and Controllable Deep Inference, <ins>IEEE Journal of Selected Topics in Signal Processing</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9028245)].
+
+- Early Exit or Not: Resource-Efficient Blind Quality Enhancement for Compressed Images, <ins>European Conference on Computer Vision(ECCV)</ins>, [[article](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_17)].
+
 
 ## 2019 ##
 - JointDNN: An Efficient Training and Inference Engine for Intelligent Mobile Cloud Computing Services, <ins>IEEE Transactions on Mobile Computing</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/8871124)].
@@ -141,9 +153,19 @@ Articles are sorted by year, from most recent to oldest.
 
 - Boomerang: On-Demand Cooperative Deep Neural Network Inference for Edge Intelligence on the Industrial Internet of Things, <ins>IEEE Network</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/8863733)].
 
+- Exploiting Energy-Accuracy Trade-off through Contextual Awareness in Multi-Stage Convolutional Neural Networks, <ins>International Symposium on Quality Electronic Design (ISQED)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/8697497)].
+
+- Distillation-Based Training for Multi-Exit Architectures, <ins>International Conference on Computer Vision (ICCV)</ins>, [[article](https://ieeexplore.ieee.org/document/9009834)].
+
 
 ## 2018 ##
 - Auto-tuning Neural Network Quantization Framework for Collaborative Inference Between the Cloud and Edge, <ins>Artificial Neural Networks and Machine Learning (ICANN)</ins>, [[article](https://link.springer.com/chapter/10.1007/978-3-030-01418-6_40)].
+
+- Learning IoT in Edge: Deep Learning for the Internet of Things with Edge Computing, <ins>IEEE Network</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/8270639)].
+
+- Computation Offloading for Machine Learning Web Apps in the Edge Server Environment, <ins>International Conference on Distributed Computing Systems (ICDCS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/8416417)].
+
+- Deep Feature Compression for Collaborative Object Detection, <ins>International Conference on Image Processing (ICIP)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/8451100)].
 
 
 ## 2017 ##
