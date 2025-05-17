@@ -4,7 +4,7 @@
 ## 🏠 About ##
 Here is a curated list of Split Computing & Early Exit papers and resources.
 
-🚧 This is an active repository, you can watch for following the latest advances.
+🚧 This is an active repository; you can watch for the latest advances.
 
 The ✨ indicates that this is an article that I co-authored.
 
@@ -17,14 +17,14 @@ If you find it useful, please kindly star ⭐ this repository.
 
 ## ❤️ Community Support ##
 This repository is maintained by [Luigi Capogrosso](https://github.com/luigicapogrosso) (luigi.capogrosso@univr.it).
-I welcome feedback, suggestions, and contributions that can help improve this repository so as to make them valuable resources to benefit the entire community.
+I welcome feedback, suggestions, and contributions that can help improve this repository so as to make it a valuable resource to benefit the entire community.
 
 I will actively maintain this repository by incorporating new research as it emerges.
 If you have any suggestions regarding our taxonomy, find any missed papers, or update any preprint arXiv paper that has been accepted to some venue, feel free to send us an email or submit a pull request using the following markdown format.
 
 
 ```markdown
-Paper Title, <ins>Conference/Journal/Preprint, [[article](link)], [[other resources](link)].
+Paper Title, <ins>Conference/Journal/Preprint</ins>, [[article](link)], [[other resources](link)].
 ```
 
 
