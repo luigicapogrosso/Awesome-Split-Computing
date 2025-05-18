@@ -1,4 +1,4 @@
-# Awesome Split Computing #
+# Awesome Split Computing & Early Exit Papers #
 
 
 ## 🏠 About ##
@@ -12,7 +12,7 @@ If you find it useful, please kindly star ⭐ this repository.
 
 
 ## 📢 Latest Updates ##
-> **[2025-MM-DD]**: Made this repository public.
+> **[2025-05-18]**: Made this repository public.
 
 
 ## ❤️ Community Support ##
