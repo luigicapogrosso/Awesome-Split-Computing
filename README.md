@@ -17,10 +17,10 @@ If you find it useful, please kindly star ⭐ this repository.
 
 ## ❤️ Community Support ##
 This repository is maintained by [Luigi Capogrosso](https://github.com/luigicapogrosso) (luigi.capogrosso@univr.it).
-I welcome feedback, suggestions, and contributions that can help improve this repository so as to make it a valuable resource to benefit the entire community.
+I welcome feedback, suggestions, and contributions that can help improve this repository to make it a valuable resource that benefits the entire community.
 
 I will actively maintain this repository by incorporating new research as it emerges.
-If you have any suggestions regarding our taxonomy, find any missed papers, or update any preprint arXiv paper that has been accepted to some venue, feel free to send us an email or submit a pull request using the following markdown format.
+If you have any suggestions regarding the taxonomy, find any missed papers, or update any pre-print arXiv paper that has been accepted to some venue, please email me or submit a pull request using the following markdown format.
 
 
 ```markdown
