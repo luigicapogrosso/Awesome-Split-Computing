@@ -47,13 +47,13 @@ Articles are sorted by year, from most recent to oldest.
 
 - Request Deadline Split and Interference-Aware Request Migration in Edge Cloud, <ins>Concurrency and Computation: Practice and Experience</ins>, [[article](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.8315)].
 
-- Pao-Ding: Accelerating Cross-Edge Video Analytics via Automated CNN Model Partitioning, <ins>IEEE Transactions on Mobile Computing</ins>, [[article](https://ieeexplore.ieee.org/document/10787018)], [[code](https://github.com/Pao-Ding-sys/Pao-Ding)].
+- Pao-Ding: Accelerating Cross-Edge Video Analytics via Automated CNN Model Partitioning, <ins>IEEE Transactions on Mobile Computing</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/11195759)], [[code](https://github.com/Pao-Ding-sys/Pao-Ding)].
 
 
 ## 2024 ##
 - All-Sky Autonomous Computing in UAV Swarm, <ins>IEEE Transactions on Mobile Computing</ins>, [[article](https://doi.org/10.1109/TMC.2024.3427420)], [[code](https://github.com/snhao222/ASAP)].
 
-- Salted Inference: Enhancing Privacy while Maintaining Efficiency of Split Inference in Mobile Computing, <ins>Workshop on Mobile Computing Systems and Applications (HotMobile)</ins>, [[article](https://dl.acm.org/doi/10.1145/3638550.3641129)], [[code](https://github.com/Nokia-Bell-Labs/salted-dnns)].
+- Salted Inference: Enhancing Privacy while Maintaining Efficiency of Split Inference in Mobile Computing, <ins>Workshop on Mobile Computing Systems and Applications (HotMobile)</ins>, [[article](https://dl.acm.org/doi/10.1145/3638550.3641131)], [[code](https://github.com/Nokia-Bell-Labs/salted-dnns)].
 
 - DISNET: Distributed Micro-Split Deep Learning in Heterogeneous Dynamic IoT, <ins>IEEE Internet of Things Journal</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10243578)], [[code](https://github.com/ricsamikwa/DiSNet)].
 
@@ -111,9 +111,9 @@ Articles are sorted by year, from most recent to oldest.
 
 
 ## 2021 ##
-- Auto-Split: A General Framework of Collaborative Edge-Cloud AI, <ins>ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD)</ins>, [[article](https://dl.acm.org/doi/abs/10.1145/3447548.3467140)], [[code](https://github.com/abanitalebi/auto-split)].
+- Auto-Split: A General Framework of Collaborative Edge-Cloud AI, <ins>ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD)</ins>, [[article](https://dl.acm.org/doi/abs/10.1145/3447548.3467078)], [[code](https://github.com/abanitalebi/auto-split)].
 
-- Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning, <ins>The Web Conference (WWW)</ins>, [[article](https://dl.acm.org/doi/10.1145/3442381.3450013)], [[code](https://github.com/letian-zhang/ANS)].
+- Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning, <ins>The Web Conference (WWW)</ins>, [[article](https://dl.acm.org/doi/10.1145/3442381.3450051)], [[code](https://github.com/letian-zhang/ANS)].
 
 - Dynamic DNN Decomposition for Lossless Synergistic Inference, <ins>International Conference on Distributed Computing Systems Workshops (ICDCSW)</ins>, [[article](https://ieeexplore.ieee.org/document/9545956/)], [[code](https://github.com/be1be1/d3)].
 
