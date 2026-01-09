@@ -47,8 +47,16 @@ Articles are sorted by year, from most recent to oldest.
 
 - Request Deadline Split and Interference-Aware Request Migration in Edge Cloud, <ins>Concurrency and Computation: Practice and Experience</ins>, [[article](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.8315)].
 
+- Pao-Ding: Accelerating Cross-Edge Video Analytics via Automated CNN Model Partitioning, <ins>IEEE Transactions on Mobile Computing</ins>, [[article](https://ieeexplore.ieee.org/document/10787018)], [[code](https://github.com/Pao-Ding-sys/Pao-Ding)].
+
 
 ## 2024 ##
+- All-Sky Autonomous Computing in UAV Swarm, <ins>IEEE Transactions on Mobile Computing</ins>, [[article](https://doi.org/10.1109/TMC.2024.3427420)], [[code](https://github.com/snhao222/ASAP)].
+
+- Salted Inference: Enhancing Privacy while Maintaining Efficiency of Split Inference in Mobile Computing, <ins>Workshop on Mobile Computing Systems and Applications (HotMobile)</ins>, [[article](https://dl.acm.org/doi/10.1145/3638550.3641129)], [[code](https://github.com/Nokia-Bell-Labs/salted-dnns)].
+
+- DISNET: Distributed Micro-Split Deep Learning in Heterogeneous Dynamic IoT, <ins>IEEE Internet of Things Journal</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10243578)], [[code](https://github.com/ricsamikwa/DiSNet)].
+
 - ✨ MTL-Split: Multi-Task Learning for Edge Devices using Split Computing, <ins>Design Automation Conference (DAC)</ins>, [[article](https://dl.acm.org/doi/abs/10.1145/3649329.3655686)], [[website](https://intelligolabs.github.io/MTL-Split/)].
 
 - Neuromorphic Split Computing With Wake-Up Radios: Architecture and Design via Digital Twinning, <ins>IEEE Transactions on Signal Processing</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10682971)].
@@ -69,6 +77,10 @@ Articles are sorted by year, from most recent to oldest.
 
 
 ## 2023 ##
+- ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross-Edge Video Analytics, <ins>IEEE Annual International Conference on Computer Communications (INFOCOM)</ins>, [[article](https://ieeexplore.ieee.org/document/10228990)], [[code](https://github.com/nju-cn/ResMap)].
+
+- Automated Exploration and Implementation of Distributed CNN Inference at the Edge, <ins>IEEE Internet of Things Journal</ins>, [[article](https://ieeexplore.ieee.org/document/10018439)], [[code](https://github.com/parrotsky/AutoDiCE)].
+
 - ✨ Split-Et-Impera: A Framework for the Design of Distributed Deep Learning Applications, <ins>International Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10139711)], [[website](https://luigicapogrosso.github.io/split_et_impera/)].
 
 - Dynamic Split Computing for Efficient Deep EDGE Intelligence, <ins>International Conference on Acoustics, Speech and Signal Processing (ICASSP)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10096914)].
@@ -89,6 +101,8 @@ Articles are sorted by year, from most recent to oldest.
 
 
 ## 2022 ##
+- PipeEdge: Pipeline Parallelism for Large-Scale Model Inference on Heterogeneous Edge Devices, <ins>Euromicro Conference on Digital System Design (DSD)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9996638)], [[code](https://github.com/usc-isi/PipeEdge)].
+
 - ✨ I-SPLIT: Deep Network Interpretability for Split Computing, <ins>International Conference on Pattern Recognition (ICPR)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9956625)], [[website](https://vips4.github.io/I-Split/)].
 
 - BottleFit: Learning Compressed Representations in Deep Neural Networks for Effective and Efficient Split Computing, <ins>International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9842809)].
@@ -97,6 +111,12 @@ Articles are sorted by year, from most recent to oldest.
 
 
 ## 2021 ##
+- Auto-Split: A General Framework of Collaborative Edge-Cloud AI, <ins>ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD)</ins>, [[article](https://dl.acm.org/doi/abs/10.1145/3447548.3467140)], [[code](https://github.com/abanitalebi/auto-split)].
+
+- Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning, <ins>The Web Conference (WWW)</ins>, [[article](https://dl.acm.org/doi/10.1145/3442381.3450013)], [[code](https://github.com/letian-zhang/ANS)].
+
+- Dynamic DNN Decomposition for Lossless Synergistic Inference, <ins>International Conference on Distributed Computing Systems Workshops (ICDCSW)</ins>, [[article](https://ieeexplore.ieee.org/document/9545956/)], [[code](https://github.com/be1be1/d3)].
+
 - Packet-Loss-Tolerant Split Inference for Delay-Sensitive Deep Learning in Lossy Wireless Networks, <ins>Conference on Computer Vision and Pattern Recognition (CVPR)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9685179)].
 
 - A Splittable DNN-Based Object Detector for Edge-Cloud Collaborative Real-Time Video Inference, <ins>International Conference on Advanced Video and Signal Based Surveillance (AVSS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9663806)].
@@ -145,6 +165,8 @@ Articles are sorted by year, from most recent to oldest.
 
 
 ## 2019 ##
+- Dynamic Adaptive DNN Surgery for Inference Acceleration on the Edge, <ins>IEEE Annual International Conference on Computer Communications (INFOCOM)</ins>, [[article](https://ieeexplore.ieee.org/document/8737614)], [[code](https://github.com/Tjyy-1223/DADS)].
+
 - JointDNN: An Efficient Training and Inference Engine for Intelligent Mobile Cloud Computing Services, <ins>IEEE Transactions on Mobile Computing</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/8871124)].
 
 - BottleNet: A Deep Learning Architecture for Intelligent Mobile Cloud Computing Services, <ins>International Symposium on Low Power Electronics and Design (ISLPED)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/8824955)].
