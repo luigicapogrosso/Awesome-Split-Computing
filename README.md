@@ -47,6 +47,8 @@ Articles are sorted by year, from most recent to oldest.
 
 - Request Deadline Split and Interference-Aware Request Migration in Edge Cloud, <ins>Concurrency and Computation: Practice and Experience</ins>, [[article](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.8315)].
 
+- Pao-Ding: Accelerating Cross-Edge Video Analytics via Automated CNN Model Partitioning, <ins>IEEE Transactions on Mobile Computing</ins>, [[article](https://ieeexplore.ieee.org/document/11195759)].
+
 
 ## 2024 ##
 - ✨ MTL-Split: Multi-Task Learning for Edge Devices using Split Computing, <ins>Design Automation Conference (DAC)</ins>, [[article](https://dl.acm.org/doi/abs/10.1145/3649329.3655686)], [[website](https://intelligolabs.github.io/MTL-Split/)].
@@ -61,6 +63,8 @@ Articles are sorted by year, from most recent to oldest.
 
 - Smart Split: Leveraging TinyML and Split Computing for Efficient Edge AI, <ins>Symposium on Edge Computing (SEC)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10818181)].
 
+- DISNET: Distributed Micro-Split Deep Learning in Heterogeneous Dynamic IoT, <ins>IEEE Internet of Things Journal</ins>, [[article](https://ieeexplore.ieee.org/document/10243578)].
+
 - Split DNN Inference for Exploiting Near-Edge Accelerators, <ins>International Conference on Edge Computing and Communications (EDGE)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10646420)].
 
 - A novel middleware for adaptive and efficient split computing for real-time object detection, <ins>Pervasive and Mobile Computing</ins>, [[article](https://www.sciencedirect.com/science/article/pii/S1574119225000173)].
@@ -72,6 +76,10 @@ Articles are sorted by year, from most recent to oldest.
 - ✨ Split-Et-Impera: A Framework for the Design of Distributed Deep Learning Applications, <ins>International Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10139711)], [[website](https://luigicapogrosso.github.io/split_et_impera/)].
 
 - Dynamic Split Computing for Efficient Deep EDGE Intelligence, <ins>International Conference on Acoustics, Speech and Signal Processing (ICASSP)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10096914)].
+
+- ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross-Edge Video Analytics, <ins>International Conference on Computer Communications (INFOCOM)</ins>, [[article](https://ieeexplore.ieee.org/document/10228990)].
+
+- Automated Exploration and Implementation of Distributed CNN Inference at the Edge, <ins>IEEE Internet of Things Journal</ins>, [[article](https://ieeexplore.ieee.org/document/10018439)].
 
 - PrivyNAS: Privacy-Aware Neural Architecture Search for Split Computing in Edge–Cloud Systems, <ins>IEEE Internet of Things Journal</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/10239258)].
 
@@ -95,13 +103,21 @@ Articles are sorted by year, from most recent to oldest.
 
 - Supervised Compression for Resource-Constrained Edge Computing Systems, <ins>Winter Conference on Applications of Computer Vision (WACV)</ins>, [[article](https://ieeexplore.ieee.org/document/9706690)].
 
+- PipeEdge: Pipeline Parallelism for Large-Scale Model Inference on Heterogeneous Edge Devices, <ins>Euromicro Conference on Digital System Design (DSD)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9996638)].
+
 
 ## 2021 ##
 - Packet-Loss-Tolerant Split Inference for Delay-Sensitive Deep Learning in Lossy Wireless Networks, <ins>Conference on Computer Vision and Pattern Recognition (CVPR)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9685179)].
 
+- Auto-Split: A General Framework of Collaborative Edge-Cloud AI, <ins>Conference on Knowledge Discovery & Data Mining (KDD)</ins>, [[article](https://dl.acm.org/doi/10.1145/3447548.3467078)].
+
+- Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning, <ins>The Web Conference</ins>, [[article](https://dl.acm.org/doi/10.1145/3442381.3450051)].
+
 - A Splittable DNN-Based Object Detector for Edge-Cloud Collaborative Real-Time Video Inference, <ins>International Conference on Advanced Video and Signal Based Surveillance (AVSS)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9663806)].
 
 - Neural Compression and Filtering for Edge-assisted Real-time Object Detection in Challenged Networks, <ins>International Conference on Pattern Recognition (ICPR)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9412388)].
+
+- Dynamic DNN Decomposition for Lossless Synergistic Inference, <ins>International Conference on Distributed Computing Systems Workshops (ICDCSW)</ins>, [[article](https://ieeexplore.ieee.org/document/9545956/)].
 
 - Cut, Distil and Encode (CDE): Split Cloud-Edge Deep Inference, <ins>International Conference on Sensing, Communication, and Networking (SECON)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/9491600)].
 
@@ -146,6 +162,8 @@ Articles are sorted by year, from most recent to oldest.
 
 ## 2019 ##
 - JointDNN: An Efficient Training and Inference Engine for Intelligent Mobile Cloud Computing Services, <ins>IEEE Transactions on Mobile Computing</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/8871124)].
+
+- Dynamic Adaptive DNN Surgery for Inference Acceleration on the Edge, <ins>International Conference on Computer Communications (INFOCOM)</ins>, [[article](https://ieeexplore.ieee.org/document/8737614)].
 
 - BottleNet: A Deep Learning Architecture for Intelligent Mobile Cloud Computing Services, <ins>International Symposium on Low Power Electronics and Design (ISLPED)</ins>, [[article](https://ieeexplore.ieee.org/abstract/document/8824955)].
 
